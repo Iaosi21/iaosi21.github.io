@@ -1,18 +1,20 @@
     body {
-        background-color: gray;
+        background-color: #000000;
     }
 
     p {
-        color: black;
+        color: #808080;
         font-family: sans-serif;
     }
 h1 {
 font-family: sans-serif;
- color: gray;
+ color: #808080;
 }
 h2 {
   font-family: sans-serif;
+    color: #808080;
 }
 h3 {
 font-family: sans-serif;
+    color: #808080;
 }
